@@ -108,7 +108,6 @@ https://codepen.io/pen/
 
 ## 🤝 Connect With Me
 - 📧 Email: phillipstrnt@gmail.com  
-- 💼 LinkedIn: YOUR_LINK  
 
 ---
 
