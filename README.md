@@ -37,11 +37,11 @@
 ---
 
 ## 📊 Skill Progress
-JavaScript ██████████░░ 80%  
+JavaScript ██████████░░ 90%  
 React ████████░░░░ 70%  
 Node.js ███████░░░░░ 65%  
 MongoDB ██████░░░░░░ 60%  
-Kotlin █████░░░░░░░ 50%
+Kotlin █████░░░░░░░ 60%
 
 ---
 
@@ -50,6 +50,15 @@ Kotlin █████░░░░░░░ 50%
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
 ---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
 
 ## 📊 GitHub Stats
 <p align="center">
