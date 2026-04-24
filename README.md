@@ -1,10 +1,31 @@
-# 👋 Hi, I'm Phillip
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Phillips+👋;Aspiring+Full-Stack+Developer+💻;JavaScript+%7C+React+%7C+Node.js+🚀)](https://git.io/typing-svg)
 
-🚀 Aspiring Full-Stack Developer | Turning Ideas into Reality
+// Developer Mode: ON 🚀
+I’m a passionate and driven aspiring full-stack developer focused on building modern, clean, and interactive web applications 🌍✨
+
+// Current Stack ⚙️
+JavaScript • React • Node.js • Express • MongoDB 📚💡
+
+// What I do 💻
+
+Build real-world projects 🚀
+Solve coding challenges 🧠
+Learn new technologies daily 📈
+Write clean and scalable code ✨
+
+// Mindset 🔥
+Consistency / Discipline / Growth 📌
+I believe great developers are built through practice, patience, and persistence 💪
+
+// Goal 🎯
+To become a skilled full-stack developer creating impactful digital solutions used worldwide 🌍⚡
 
 ---
 
 ## 🧑‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Phillips+👋;Aspiring+Full-Stack+Developer+💻;JavaScript+%7C+React+%7C+Node.js+🚀)](https://git.io/typing-svg)
+
+
 - 💻 Passionate about **web & mobile development**
 - 📚 Learning **JavaScript, React, Node.js & MongoDB**
 - ⚡ Exploring **Kotlin**
@@ -53,14 +74,17 @@ Kotlin █████░░░░░░░ 60%
 
 ---
 
+## 📊 GitHub Insights
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phillipstrnt&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phillipstrnt&theme=tokyonight"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phillipstrnt&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=phillipstrnt&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipstrnt&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=phillipstrnt&theme=tokyonight&no-frame=true&row=1&column=6)
+
+![Profile views](https://komarev.com/ghpvc/?username=phillipstrnt&color=blue&style=flat-square).
 
 ## 📌 Top Languages
 <p align="center">
