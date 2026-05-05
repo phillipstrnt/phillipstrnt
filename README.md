@@ -1,21 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Phillips+👋;Aspiring+Full-Stack+Developer+💻;JavaScript+%7C+React+%7C+Node.js+🚀)](https://git.io/typing-svg)
 
-// Developer Mode: ON 🚀
-I’m a passionate and driven aspiring full-stack developer focused on building modern, clean, and interactive web applications 🌍✨
 
-// Current Stack ⚙️
-JavaScript • React • Node.js • Express • MongoDB 📚💡
+💻 Full-Stack Developer building modern, scalable apps
 
-// What I do 💻
+⚡ Clean code | Performance | Great user experience
 
-Build real-world projects 🚀
-Solve coding challenges 🧠
-Learn new technologies daily 📈
-Write clean and scalable code ✨
+🛠️ HTML • CSS • JavaScript • Node.js • C • Git
 
-// Mindset 🔥
-Consistency / Discipline / Growth 📌
-I believe great developers are built through practice, patience, and persistence 💪
+🌍 Passionate about solving real-world problems with tech
+
+🚀 Let’s build something impactful
+🤝 Open to collaborations & opportunities
+
 
 // Goal 🎯
 To become a skilled full-stack developer creating impactful digital solutions used worldwide 🌍⚡
