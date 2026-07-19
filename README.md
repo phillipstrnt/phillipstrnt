@@ -83,9 +83,10 @@ Kotlin █████░░░░░░░ 60%
 ![Profile views](https://komarev.com/ghpvc/?username=phillipstrnt&color=blue&style=flat-square).
 
 ## 📌 Top Languages
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillipstrnt&layout=compact&theme=tokyonight"/>
-</p>
+</p> -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phillipstrnt&layout=compact&theme=tokyonight" />
 
 ---
 
