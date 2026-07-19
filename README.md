@@ -89,6 +89,18 @@ Kotlin █████░░░░░░░ 60%
 
 ---
 
+## 📜 Certifications
+
+### JavaScript Essentials
+
+<img src="<img width="977" height="668" alt="Screenshot_19-7-2026_205357_" src="https://github.com/user-attachments/assets/51b9e32d-2b91-4e39-81ca-c8b6767e6b2e" />
+" width="900">
+
+**Issuer:** Cisco Networking Academy
+
+**Completed:** July 2026
+
+
 ## 🐍 Contribution Snake
 https://codepen.io/pen/
 <!-- <p align="center">
