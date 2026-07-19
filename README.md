@@ -101,7 +101,9 @@ Kotlin █████░░░░░░░ 60%
 
 
 ## 🐍 Contribution Snake
-https://codepen.io/pen/
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phillipstrnt/phillipstrnt/output/github-contribution-grid-snake.svg">
+</p>
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 </p> -->
