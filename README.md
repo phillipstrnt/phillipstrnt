@@ -93,8 +93,7 @@ Kotlin █████░░░░░░░ 60%
 
 ### JavaScript Essentials
 
-<img src="<img width="977" height="668" alt="Screenshot_19-7-2026_205357_" src="https://github.com/user-attachments/assets/51b9e32d-2b91-4e39-81ca-c8b6767e6b2e" />
-" width="900">
+<img width="600" height="668" alt="Screenshot_19-7-2026_205357_" src="https://github.com/user-attachments/assets/51b9e32d-2b91-4e39-81ca-c8b6767e6b2e" />
 
 **Issuer:** Cisco Networking Academy
 
