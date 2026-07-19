@@ -82,19 +82,18 @@ Kotlin █████░░░░░░░ 60%
 
 ![Profile views](https://komarev.com/ghpvc/?username=phillipstrnt&color=blue&style=flat-square).
 
-## 📌 Top Languages
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillipstrnt&layout=compact&theme=tokyonight"/>
 </p> -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phillipstrnt&layout=compact&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phillipstrnt&layout=compact&theme=tokyonight" />
 
----
+--- -->
 
 ## 📜 Certifications
 
 ### JavaScript Essentials
 
-<img width="600" height="668" alt="Screenshot_19-7-2026_205357_" src="https://github.com/user-attachments/assets/51b9e32d-2b91-4e39-81ca-c8b6767e6b2e" />
+<img width="600" height="450" alt="Screenshot_19-7-2026_205357_" src="https://github.com/user-attachments/assets/51b9e32d-2b91-4e39-81ca-c8b6767e6b2e" />
 
 **Issuer:** Cisco Networking Academy
 
