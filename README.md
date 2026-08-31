@@ -29,6 +29,10 @@ To become a skilled full-stack developer creating impactful digital solutions us
 - 🔥 Consistency > Motivation
 
 ---
+[![committers.top badge](https://user-badge.committers.top/uganda/phillipstrnt.svg)](https://committers.top/uganda)
+
+![Profile views](https://komarev.com/ghpvc/?username=phillipstrnt&color=blue&style=flat-square).
+
 
 ## 🚀 Tech Stack
 
@@ -80,7 +84,6 @@ Kotlin █████░░░░░░░ 60%
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=phillipstrnt&theme=tokyonight&no-frame=true&row=1&column=6)
 
-![Profile views](https://komarev.com/ghpvc/?username=phillipstrnt&color=blue&style=flat-square).
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillipstrnt&layout=compact&theme=tokyonight"/>
