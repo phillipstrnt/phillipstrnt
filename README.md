@@ -29,7 +29,7 @@ To become a skilled full-stack developer creating impactful digital solutions us
 - 🔥 Consistency > Motivation
 
 ---
-[![committers.top badge](https://user-badge.committers.top/uganda/phillipstrnt.svg)](https://committers.top/uganda)
+[![wakatime](https://wakatime.com/badge/user/134b0740-35bb-42f5-b96c-d355987e4150.svg)](https://wakatime.com/@134b0740-35bb-42f5-b96c-d355987e4150)
 
 ![Profile views](https://komarev.com/ghpvc/?username=phillipstrnt&color=blue&style=flat-square).
 
