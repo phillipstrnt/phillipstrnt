@@ -82,6 +82,7 @@ TypeScript   ███████░░░░░ 65%
 MongoDB      ██████░░░░░░ 60%
 Kotlin       █████░░░░░░░ 60%
 C            █████░░░░░░░ 55%
+```
 ---
 
 ## 📚 Currently Learning
@@ -92,11 +93,11 @@ C            █████░░░░░░░ 55%
 
 ## 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phillipstrnt&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phillipstrnt&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=phillipstrnt&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phillipstrnt&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipstrnt&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=phillipstrnt&layout=compact&theme=tokyonight&hide_border=true).
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=phillipstrnt&theme=tokyonight&no-frame=true&row=1&column=6)
 
