@@ -30,13 +30,15 @@ To become a skilled full-stack developer creating impactful digital solutions us
 
 ---
 ****
-[![wakatime](https://wakatime.com/badge/user/134b0740-35bb-42f5-b96c-d355987e4150.svg?style=for-the-badge)](https://wakatime.com/@134b0740-35bb-42f5-b96c-d355987e4150)
 
-![Profile views](https://komarev.com/ghpvc/?username=phillipstrnt&color=blue&style=flat-square).
 
 ## Coding Activity (WakaTime)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=phillipstrnt)](https://github.com/phillipstrnt)
+
+[![wakatime](https://wakatime.com/badge/user/134b0740-35bb-42f5-b96c-d355987e4150.svg?style=for-the-badge)](https://wakatime.com/@134b0740-35bb-42f5-b96c-d355987e4150)
+
+![Profile views](https://komarev.com/ghpvc/?username=phillipstrnt&color=blue&style=flat-square).
 
 
 ### 🚀 Tech Stack
