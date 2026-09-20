@@ -69,6 +69,8 @@ To become a skilled full-stack developer creating impactful digital solutions us
 ---
 
 ## 📊 Skill Progress
+
+```text
 HTML         ██████████░░ 92%
 CSS          ██████████░░ 90%
 JavaScript   ██████████░░ 90%
@@ -80,7 +82,6 @@ TypeScript   ███████░░░░░ 65%
 MongoDB      ██████░░░░░░ 60%
 Kotlin       █████░░░░░░░ 60%
 C            █████░░░░░░░ 55%
-
 ---
 
 ## 📚 Currently Learning
