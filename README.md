@@ -34,8 +34,6 @@ To become a skilled full-stack developer creating impactful digital solutions us
 
 ## Coding Activity (WakaTime)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=phillipstrnt&api_key=waka_88e58634-b36d-4ee5-bd34-ff27e6197398)](https://wakatime.com/@phillipstrnt)(https://wakatime.com/settings/profile)
-
 [![wakatime](https://wakatime.com/badge/user/134b0740-35bb-42f5-b96c-d355987e4150.svg?style=for-the-badge)](https://wakatime.com/@134b0740-35bb-42f5-b96c-d355987e4150)
 
 ![Profile views](https://komarev.com/ghpvc/?username=phillipstrnt&color=blue&style=flat-square).
