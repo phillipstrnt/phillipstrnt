@@ -29,6 +29,13 @@ To become a skilled full-stack developer creating impactful digital solutions us
 - 🔥 Consistency > Motivation
 
 ---
+****
+[![wakatime](https://wakatime.com/badge/user/134b0740-35bb-42f5-b96c-d355987e4150.svg?style=for-the-badge)](https://wakatime.com/@134b0740-35bb-42f5-b96c-d355987e4150)
+****
+![](https://img.shields.io/badge/dynamic/json?color=39d353&labelColor=161b22&label=WakaTime&query=$.data.grand_total.text&url=https://wakatime.com/api/v1/users/134b0740-35bb-42f5-b96c-d355987e4150/stats/all_time)
+****
+![](https://img.shields.io/badge/dynamic/json?logo=wakatime&logoColor=white&color=blue&label=Coding%20Time&query=$.data.grand_total.text&url=https://wakatime.com/api/v1/users/134b0740-35bb-42f5-b96c-d355987e4150/stats/all_time)
+****
 [![wakatime](https://wakatime.com/badge/user/134b0740-35bb-42f5-b96c-d355987e4150.svg)](https://wakatime.com/@134b0740-35bb-42f5-b96c-d355987e4150)
 
 ![Profile views](https://komarev.com/ghpvc/?username=phillipstrnt&color=blue&style=flat-square).
