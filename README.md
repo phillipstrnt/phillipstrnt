@@ -69,17 +69,17 @@ To become a skilled full-stack developer creating impactful digital solutions us
 ---
 
 ## 📊 Skill Progress
-HTML        ██████████░░ 92%
-CSS         ██████████░░ 90%
-JavaScript  ██████████░░ 90%
-Java        ████████░░░░ 75%
-Python      ████████░░░░ 75%
-React       ████████░░░░ 70%
-Node.js     ███████░░░░░ 65%
-TypeScript  ███████░░░░░ 65%
-MongoDB     ██████░░░░░░ 60%
-Kotlin      █████░░░░░░░ 60%
-C           █████░░░░░░░ 55%
+HTML         ██████████░░ 92%
+CSS          ██████████░░ 90%
+JavaScript   ██████████░░ 90%
+Java         ████████░░░░ 75%
+Python       ████████░░░░ 75%
+React        ████████░░░░ 70%
+Node.js      ███████░░░░░ 65%
+TypeScript   ███████░░░░░ 65%
+MongoDB      ██████░░░░░░ 60%
+Kotlin       █████░░░░░░░ 60%
+C            █████░░░░░░░ 55%
 
 ---
 
